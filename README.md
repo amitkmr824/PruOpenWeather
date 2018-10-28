@@ -1,0 +1,2 @@
+# PruOpenWeather
+maven project
